@@ -1,0 +1,1 @@
+var $i_declare_variable;
